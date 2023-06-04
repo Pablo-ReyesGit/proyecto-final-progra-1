@@ -1,0 +1,7 @@
+CORRECCIONES
+
+- No. factura automático (CORREGIDO)
+- Fecha factura el del día de hoy (CORREGIDO)
+- ID cliente debe ser el NIT (SEMI-CORREGIDO)
+- El mismo ID venta debe generarlo. El ID venta debe consultarse en la base de datos. (CORREGIDO)
+- Cantidad es entero (CORREGIDO)

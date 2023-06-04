@@ -1,0 +1,5 @@
+Link para ver el funcionamiento: https://youtu.be/2GpnZtxuu4c
+
+Link para ver el diagrama de arduino: https://drive.google.com/file/d/1v2KpYJTNh3_fVlKMn-bSxTzZ404e-kgo/view?usp=share_link
+
+Link para ver el código en arduino: https://drive.google.com/file/d/1-Z8ie6uZgXXicfXegU6TVHIQluCtjAzA/view?usp=share_link

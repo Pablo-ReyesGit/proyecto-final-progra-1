@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\proyecto\VentasMaestro_Detalle.h(48,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\proyecto\VentasMaestro_Detalle.h(71,38): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\proyecto\VentasMaestro_Detalle.h(340,30): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\proyecto\ComprasMaestro_Detalle.h(55,39): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\proyecto\ComprasMaestro_Detalle.h(275,30): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+  proyecto.vcxproj -> C:\Users\pablo\OneDrive\Documentos\proyecto final progra 1\x64\Debug\proyecto.exe
